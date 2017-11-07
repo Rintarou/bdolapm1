@@ -17,10 +17,10 @@ Un certains nombre de propriétés s'y appliquent.
 
 Puis autour viennent se greffer les dimensions relatives aux autres éléments,
 
--Auteurs
--Dates
--Lieux
--Acquisitions
+* Auteurs
+* Dates
+* Lieux
+* Acquisitions
 
 # Sources
 [Le Dataset](http://data.nantes.fr/donnees/detail/inventaire-des-collections-du-musee-darts-de-nantes/)
