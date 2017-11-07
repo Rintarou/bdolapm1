@@ -17,9 +17,7 @@ Un certains nombre de propriétés s'y appliquent.
 
 Puis autour viennent se greffer les dimensions relatives aux autres éléments,
 
-* Auteurs
-* Dates
-* Lieux
+* Auteur
 * Acquisitions
 
 # Sources
