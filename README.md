@@ -20,6 +20,7 @@ Puis autour viennent se greffer les dimensions relatives aux autres éléments,
 * Auteur (l'auteur de l'oeuvre)
 * Acquisitions (date et conditions d'acquisition de l'oeuvre)
 * Domaine (type d'oeuvre d'art : peinture, sculpture ...)
+* Dimensions (les dimensions X, Y et potentiellement Z de l'oeuvre)
 
 # Sources
 [Le Dataset](http://data.nantes.fr/donnees/detail/inventaire-des-collections-du-musee-darts-de-nantes/)
