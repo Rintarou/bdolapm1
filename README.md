@@ -17,9 +17,9 @@ Un certains nombre de propriétés s'y appliquent.
 
 Puis autour viennent se greffer les dimensions relatives aux autres éléments,
 
-* Auteur
-* Acquisitions
+* Auteur (l'auteur de l'oeuvre)
+* Acquisitions (date et conditions d'acquisition de l'oeuvre)
+* Domaine (type d'oeuvre d'art : peinture, sculpture ...)
 
 # Sources
 [Le Dataset](http://data.nantes.fr/donnees/detail/inventaire-des-collections-du-musee-darts-de-nantes/)
-
