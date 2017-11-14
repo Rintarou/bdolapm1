@@ -22,5 +22,13 @@ Puis autour viennent se greffer les dimensions relatives aux autres éléments,
 * Domaine (type d'oeuvre d'art : peinture, sculpture ...)
 * Dimensions (les dimensions X, Y et potentiellement Z de l'oeuvre)
 
+# Navigation
+
+Vous trouverez dans ce repository :
+* le fichier csv d'origine dans Data/base.csv
+* le fichier csv nettoyé et formatté pour l'intégration dans Data/clean.csv
+* l'export de la base de données Oracle de notre entrepôt de données dans Data/export.sql
+* le diagramme en étoile modélisant notre entrepôt de données OLAP dans Model/DiagEtoile_v4.png
+
 # Sources
 [Le Dataset](http://data.nantes.fr/donnees/detail/inventaire-des-collections-du-musee-darts-de-nantes/)
