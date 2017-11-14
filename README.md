@@ -29,6 +29,7 @@ Vous trouverez dans ce repository :
 * le fichier csv nettoyé et formatté pour l'intégration dans Data/clean.csv
 * l'export de la base de données Oracle de notre entrepôt de données dans Data/export.sql
 * le diagramme en étoile modélisant notre entrepôt de données OLAP dans Model/DiagEtoile_v4.png
+* les différentes requêtes dans Queries/
 
 # Sources
 [Le Dataset](http://data.nantes.fr/donnees/detail/inventaire-des-collections-du-musee-darts-de-nantes/)
