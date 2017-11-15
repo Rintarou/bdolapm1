@@ -25,6 +25,7 @@ Puis autour viennent se greffer les dimensions relatives aux autres éléments,
 # Navigation
 
 Vous trouverez dans ce repository :
+* rapport en pdf à la racine
 * le fichier csv d'origine dans Data/base.csv
 * le fichier csv nettoyé et formatté pour l'intégration dans Data/clean.csv
 * l'export de la base de données Oracle de notre entrepôt de données dans Data/export.sql
